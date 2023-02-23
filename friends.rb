@@ -1,5 +1,7 @@
-bfriend = "Zach"
+bfriend = "Chaco"
 if bfriend == "Zach" 
     print "I love you, #{bfriend}"
-else print "hey, buddy"
+elsif print "hey, buddy"
 end
+
+friend = "Chaco"
